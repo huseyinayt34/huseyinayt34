@@ -11,7 +11,7 @@ A multi-tenant customer-retention platform for small businesses with repeat cust
 - **Evidence:** models compared on synthetic scenarios with known parameters (ROC AUC + calibration backtest)
 - **Explainable output:** every at-risk member gets a one-sentence reason and a "revenue at risk" figure
 - **Engineering:** PostgreSQL row-level security for tenant isolation, FastAPI, Alembic, 600+ tests on every push
-- 🔗 [Live demo](https://panosu.onrender.com) · 📐 [Math report (TR)](https://github.com/huseyinayt34/panosu/blob/main/docs/matematik-raporu.md) · 📊 [Backtest results](https://github.com/huseyinayt34/panosu/blob/main/docs/backtest-sonuclari.md)
+- 🔗 [Live demo](https://ritmeva.onrender.com) · 📐 [Math report (TR)](https://github.com/huseyinayt34/panosu/blob/main/docs/matematik-raporu.md) · 📊 [Backtest results](https://github.com/huseyinayt34/panosu/blob/main/docs/backtest-sonuclari.md)
 
 ## Toolbox
 
