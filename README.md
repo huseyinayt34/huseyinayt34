@@ -3,7 +3,7 @@
 Mathematics student at **Sakarya University** (2nd year), working toward **data and analytics**.
 I like problems where a probability model answers a business question: *which customer is about to leave, and how much revenue is at risk?*
 
-## Featured project: [Ritmeva (Panosu)](https://github.com/huseyinayt34/panosu)
+## Featured project: [Ritmeva](https://github.com/huseyinayt34/panosu)
 
 A multi-tenant customer-retention platform for small businesses with repeat customers (pilates studios, gyms, salons).
 
