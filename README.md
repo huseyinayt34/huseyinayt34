@@ -3,7 +3,7 @@
 Mathematics student at **Sakarya University** (2nd year), working toward **data and analytics**.
 I like problems where a probability model answers a business question: *which customer is about to leave, and how much revenue is at risk?*
 
-## Featured project: [Ritmeva](https://github.com/huseyinayt34/panosu)
+## Featured project: [Ritmeva](https://github.com/huseyinayt34/ritmeva)
 
 A multi-tenant customer-retention platform for small businesses with repeat customers (pilates studios, gyms, salons).
 
@@ -11,7 +11,7 @@ A multi-tenant customer-retention platform for small businesses with repeat cust
 - **Evidence:** models compared on synthetic scenarios with known parameters (ROC AUC + calibration backtest)
 - **Explainable output:** every at-risk member gets a one-sentence reason and a "revenue at risk" figure
 - **Engineering:** PostgreSQL row-level security for tenant isolation, FastAPI, Alembic, 600+ tests on every push
-- 🔗 [Live demo](https://ritmeva.onrender.com) · 📐 [Math report (TR)](https://github.com/huseyinayt34/panosu/blob/main/docs/matematik-raporu.md) · 📊 [Backtest results](https://github.com/huseyinayt34/panosu/blob/main/docs/backtest-sonuclari.md)
+- 🔗 [Live demo](https://ritmeva.onrender.com) · 📐 [Math report (TR)](https://github.com/huseyinayt34/ritmeva/blob/main/docs/matematik-raporu.md) · 📊 [Backtest results](https://github.com/huseyinayt34/ritmeva/blob/main/docs/backtest-sonuclari.md)
 
 ## Toolbox
 
